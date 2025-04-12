@@ -1,12 +1,1 @@
-<!-- index.html -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Be Courtly – Coming Soon</title>
-</head>
-<body>
-  <h1>Be Courtly</h1>
-  <p>This will be your AI-powered communication tool for co-parents.</p>
-</body>
-</html>
+
